@@ -3,8 +3,9 @@
 .idea/
 *.iml
 *.iws
-out/
 target/
+out/
+
 
 # Log file
 *.log
